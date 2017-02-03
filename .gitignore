@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+Grades.ods - Sheet1.csv
+machine_learning.ipynb
